@@ -14,4 +14,4 @@
 ![wgan_generated_images.png](https://s2.loli.net/2024/04/09/XMl3Qmv9AwPHezr.png)
 
 # By WGAN-GP model
-![wgan_gp_fitness.png](https://s2.loli.net/2024/04/09/Pf1DtdaUFsSMxZA.png)
+![wgan-gp_generated_images.png](https://s2.loli.net/2024/04/09/ZYdG43nM8kQheoI.png)
