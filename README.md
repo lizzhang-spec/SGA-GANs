@@ -7,14 +7,17 @@ The codes provided above are only for BEGAN. For the other four models—GAN, DC
 
 # Descriptions
 First run 
-'''
+```python
 python search.py
-'''
+```
+
 <br />
+
 then 
-'''
+```python
 python train.py
-'''
+```
+
 
 # Citation
 Zhang Y, Xue Y, Neri F. Multi-Optimiser Training for GANs Based on Evolutionary Computation[C]//2024 IEEE Congress on Evolutionary Computation (CEC). IEEE, 2024: 1-8.
