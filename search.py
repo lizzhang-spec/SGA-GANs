@@ -25,11 +25,9 @@ import torch
 
 device = 'cuda:0'
 
-# 创建一个txt文件，文件名为mytxtfile
 def text_create(name):
     desktop_path = "log"
-    # 新创建的txt文件的存放路径
-    full_path = desktop_path + name + '.txt'  # 也可以创建一个.doc的word文档
+    full_path = desktop_path + name + '.txt'
     file = open(full_path, 'w')
 
 filename = 'began_search_SGA_log'
@@ -675,7 +673,6 @@ P = []
 population_init(P, p_num, 24, min_init_Val, max_init_Val)
 print('Initialized population=', P)
 
-# #目标函数值列表
 # xReal=[]
 
 starttime = datetime.datetime.now()
